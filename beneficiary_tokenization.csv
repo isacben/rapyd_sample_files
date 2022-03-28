@@ -1,0 +1,2 @@
+beneficiary.email,beneficiary_entity_type,custom_email_text,beneficiary_country,payout_currency,sender_country,sender_currency
+email@example.com,individual,Custom Text,,,,
