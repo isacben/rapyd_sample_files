@@ -1,0 +1,2 @@
+beneficiary_country,payout_method_type,sender_country,sender_currency,sender_entity_type,payout_currency,payout_amount,beneficiary_entity_type,ewallet,beneficiary,sender,beneficiary.first_name,beneficiary.last_name,beneficiary.account_number,beneficiary.aba,sender.company_name,sender.purpose_code
+US,us_ach_bank,US,USD,company,USD,10,individual,,beneficiary_98381830cf6422aa6237c7dc30c7629b,,,,,,ADR,Rewards

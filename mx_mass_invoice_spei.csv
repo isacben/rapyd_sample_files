@@ -1,0 +1,2 @@
+amount,country,currency,payment_method.type,customer,description
+100,MX,MXN,mx_spei_bank,cus_eadc93521ebb16772b46e52b34709a96,Descripcion del pago

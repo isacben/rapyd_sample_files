@@ -1,0 +1,3 @@
+amount,country,currency,fixed_side,requested_currency,payment_method.type,merchant_reference_id,description,ewallet,expiration
+100,MX,MXN,sell,USD,mx_paycash_cash,invoice_1021201,test10210201,ewallet_de9ac73c023ab79eaae10aeb5a118113,1618593844
+150,MX,MXN,sell,USD,mx_diestel_cash,invoice_1021202,test10212002,ewallet_de9ac73c023ab79eaae10aeb5a118113,1618593844
